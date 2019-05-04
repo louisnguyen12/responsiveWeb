@@ -1,3 +1,2 @@
 # responsiveWeb
-Simple responsive web design
-Follow the instruction from Tranversy Media
+Simple responsive web design following the instruction from Tranversy Media
